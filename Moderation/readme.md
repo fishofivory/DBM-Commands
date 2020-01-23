@@ -1,3 +1,3 @@
 # DBM Commands
 ## Moderation
-_COMING SOON_
+- Purge - Mass Delete messages
