@@ -1,0 +1,11 @@
+{
+  "name": "restart",
+  "permissions": "NONE",
+  "restriction": "2",
+  "_id": "QFPTj",
+  "actions": [
+    {
+      "name": "Restart Bot"
+    }
+  ]
+}
